@@ -1,0 +1,26 @@
+*{
+    background-color: #239ac2;
+}
+img{
+    height: 30%;
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+   
+}
+h1{
+    text-align: center;
+    /* margin-left: auto;
+    margin-right: auto; */
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h5{
+    text-align: center;
+    /* margin-left: auto;
+    margin-right: auto; */
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
